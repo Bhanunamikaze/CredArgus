@@ -39,7 +39,7 @@ CredArgus is a simple command-line tool. You only need Python 3 to run it.
 1. **Clone the repository:**
     
     ```
-    git clone [https://github.com/Bhanunamikaze/CredArgus.git](https://github.com/Bhanunamikaze/CredArgus.git)
+    git clone https://github.com/Bhanunamikaze/CredArgus.git
     cd CredArgus
     ```
     
